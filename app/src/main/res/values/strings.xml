@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lagani</string>
+    <string name="find">find</string>
+    <string name="liyeko_saal">लिएको साल</string>
+    <string name="liyeko_mahina">लिएको महिना</string>
+    <string name="liyeko_din">लिएको दिन</string>
+    <string name="diyeko_sal">दिएको साल</string>
+    <string name="diyeko_mahina">दिएको महिना</string>
+    <string name="diyeko_din">दिएको दिन</string>
+    <string name="amount">रकम</string>
+    <string name="rupaya">रूपया</string>
+    <string name="hisab">हिसाब</string>
+
+</resources>
